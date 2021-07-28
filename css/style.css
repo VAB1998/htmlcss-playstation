@@ -61,9 +61,14 @@
     background-color: #0064ff;
 }
 
-#ciao{
-    background-color: red;
 
+#my_products_carousel_indicators .col{
+    border-bottom: 2px solid transparent; 
 }
+#my_products_carousel_indicators .col:hover{
+    border-bottom: 2px solid #0064ff;
+}
+
+
 
 
