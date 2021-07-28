@@ -1,3 +1,13 @@
+/* ------Top Bar------ */
+#my_top_bar{
+    background-color: black;
+    height: 50px;
+}
+
+.sony_logo{
+    height: 100%;
+}
+
 
 /* ------Navigation Bar------ */
 .my_access_button{
@@ -8,6 +18,3 @@
 .my_access_button:hover{
     color: white;
 }
-
-
-
