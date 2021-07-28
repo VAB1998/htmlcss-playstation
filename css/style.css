@@ -1,11 +1,11 @@
 /* ------Top Bar------ */
+.sony_logo_image{
+    height: 100%;
+}
+
 #my_top_bar{
     background-color: black;
     height: 50px;
-}
-
-.sony_logo{
-    height: 100%;
 }
 
 
@@ -18,3 +18,28 @@
 .my_access_button:hover{
     color: white;
 }
+
+
+/* ------Jumbotron------ */
+
+
+.returnal_banner_image{
+    width: 70%;
+}
+
+.my_jumbotron_button{
+    background-color: red;
+    color: white;
+}
+
+#my_jumbotron{
+    /* Style */
+    color: white;
+    /* Size Settings */
+    height: 80vh;
+    /* Background Settings */
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
