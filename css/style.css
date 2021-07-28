@@ -21,8 +21,6 @@
 
 
 /* ------Jumbotron------ */
-
-
 .returnal_banner_image{
     width: 70%;
 }
@@ -42,4 +40,20 @@
     background-size: cover;
     background-position: center;
 }
+
+/* ------Cover Games------ */
+.cover_image_wrapper{
+    border: 3px solid transparent;
+}
+
+.cover_image_wrapper:hover{
+    border: 3px solid #0064ff;
+}
+
+.cover_image_wrapper img{
+    width: 100%;
+}
+
+
+
 
