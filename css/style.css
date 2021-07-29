@@ -35,7 +35,7 @@
 .my_jumbotron_image{
     width: 70%;
 }
-
+/* Potrei dare una class=my_game_img!!!!!!!!!!!!!!!!  */
 .my_game_wrapper{
     border: 3px solid transparent;
 }
@@ -93,8 +93,9 @@
 
 /* ------New Releases------ */
 #my_new_releases{
+    /* Style */
     color: white;
-    background-color: black;
+    background-color: #1f1f1f;
 }
 
 
