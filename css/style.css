@@ -1,4 +1,14 @@
 /* ------Customized Settings and Styles------ */
+.my_jumbotron_settings{
+    /* Style */
+    color: white;
+    /* Size Settings */
+    height: 80vh;
+    /* Background Settings */
+    background-size: cover;
+    background-position: center;
+}
+
 .my_card{
     border: none;
 }
@@ -65,22 +75,17 @@
 
 /* ------Jumbotron------ */
 #my_jumbotron{
-    /* Style */
-    color: white;
-    /* Size Settings */
-    height: 80vh;
     /* Background Settings */
     background-image: url(../img/jumbo-bg.png);
-    background-size: cover;
-    background-position: center;
 }
+
 
 /* ------Products------ */
 #my_products_carousel_indicators .col{
     border-bottom: 2px solid transparent; 
 }
 
-/* Hover Effect */
+    /* Hover Effect */
 #my_products_carousel_indicators .col:hover{
     border-bottom: 2px solid #0064ff;
 }
@@ -88,14 +93,8 @@
 
 /* ------Secondary Jumbotron------ */
 #my_secondary_jumbotron{
-    /* Style */
-    color: white;
-    /* Size Settings */
-    height: 80vh;
     /* Background Settings */
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: cover;
-    background-position: center;
 }
 
 
