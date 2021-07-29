@@ -128,7 +128,7 @@
     color: black;
 }
 
-/* Hover Effect */
+    /* Hover Effect */
 .my_ps_now_button:hover{
     background-color: #d9dadc;
     color: black;
@@ -139,7 +139,11 @@
     color: white;
 }
 
-
+/* ------Footer------ */
+#my_footer{
+    background-color: #00439c;
+    color: white;
+}
 
 /* Is it better w-100 or my_width_100_img???????????? */
 /* Conviene raggruppare le img per classi 
