@@ -1,7 +1,36 @@
+/* ------Buttons Style------ */
 .my_buy_now_button{
-    background-color: red;
+    background-color: #a60000;
     color: white;
 }
+
+/* Hover Effect */
+.my_buy_now_button:hover{
+    color: white;
+    background-color: #f00;
+}
+
+.my_info_button{
+    color: white;
+    background-color: #1360d9;
+}
+
+/* Hover Effect */
+.my_info_button:hover{
+    color: white;
+    background-color: #0064ff;
+}
+
+.my_access_button{
+    background-color: #464646;
+    color: white;
+}
+
+/* Hover Effect */
+.my_access_button:hover{
+    color: white;
+}
+/* ----------------- */
 
 .my_jumbotron_image{
     width: 70%;
@@ -17,25 +46,11 @@
 }
 
 /* ------Top Bar------ */
-.sony_logo_image{
-    height: 100%;
-}
-
 #my_top_bar{
+    /* Style */
     background-color: black;
+    /* Size Settings */
     height: 50px;
-}
-
-
-/* ------Navigation Bar------ */
-.my_access_button{
-    background-color: #464646;
-    color: white;
-}
-
-/* Hover Effect */
-.my_access_button:hover{
-    color: white;
 }
 
 
@@ -53,11 +68,6 @@
 
 
 /* ------Products------ */
-.my_info_button{
-    color: white;
-    background-color: #0064ff;
-}
-
 #my_products_carousel_indicators .col{
     border-bottom: 2px solid transparent; 
 }
