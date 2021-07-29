@@ -99,3 +99,28 @@
 }
 
 
+/* ------Playstatio Plus------ */
+
+.my_ps_plus_logo{
+    width: 70%;
+}
+
+.my_ps_plus_button{
+    background-color: #d9dadc;
+    color: #0064ff;
+}
+
+/* Hover effect */
+.my_ps_plus_button:hover{
+    background-color: #fff;
+    color: #0064ff;
+}
+
+
+#my_playstation_plus{
+    background-color: #bebcbb;
+}
+
+.my_ps_plus_game{
+    width: 100%;
+}
