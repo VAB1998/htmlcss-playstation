@@ -124,3 +124,12 @@
 .my_ps_plus_game{
     width: 100%;
 }
+
+/* ------Playstation Store------ */
+.my_ps_store_image{
+    width: 100%;
+}
+
+
+/* Conviene raggruppare le img per classi 
+che dipendono dalla width???????? */
