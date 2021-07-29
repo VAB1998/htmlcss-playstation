@@ -1,4 +1,12 @@
 /* ------Customed Settings and Styles------ */
+.my_game_wrapper{
+    border: 3px solid transparent;
+}
+
+    /* Hover Effect */
+.my_game_wrapper:hover{
+    border: 3px solid #0064ff;
+}
 
 /* Image Width */
 .my_width_70_img{
@@ -10,13 +18,12 @@
 }
 
 
-/* Buttons Style */
+/* Button Styles */
 .my_buy_now_button{
     background-color: #a60000;
     color: white;
 }
-
-/* Hover Effect */
+    /* Hover Effect */
 .my_buy_now_button:hover{
     color: white;
     background-color: #f00;
@@ -27,7 +34,7 @@
     background-color: #1360d9;
 }
 
-/* Hover Effect */
+    /* Hover Effect */
 .my_info_button:hover{
     color: white;
     background-color: #0064ff;
@@ -38,24 +45,12 @@
     color: white;
 }
 
-/* Hover Effect */
+    /* Hover Effect */
 .my_access_button:hover{
     color: white;
+    background-color: #8f8f8f;
 }
-/* ----------------- */
-
-.my_jumbotron_image{
-    width: 70%;
-}
-/* Potrei dare una class=my_game_img!!!!!!!!!!!!!!!!  */
-.my_game_wrapper{
-    border: 3px solid transparent;
-}
-
-/* Hover Effect */
-.my_game_wrapper:hover{
-    border: 3px solid #0064ff;
-}
+/* --------End--------- */
 
 /* ------Top Bar------ */
 #my_top_bar{
@@ -64,7 +59,6 @@
     /* Size Settings */
     height: 50px;
 }
-
 
 /* ------Jumbotron------ */
 #my_jumbotron{
@@ -77,7 +71,6 @@
     background-size: cover;
     background-position: center;
 }
-
 
 /* ------Products------ */
 #my_products_carousel_indicators .col{
@@ -112,8 +105,6 @@
 
 
 /* ------Playstatio Plus------ */
-
-
 .my_ps_plus_button{
     background-color: #d9dadc;
     color: #0064ff;
@@ -129,15 +120,6 @@
 #my_playstation_plus{
     background-color: #bebcbb;
 }
-
-
-
-/* ------Playstation Store------ */
-.my_ps_store_image{
-    width: 100%;
-}
-
-
 
 
 /* ------My Playstation Now------ */
@@ -159,6 +141,6 @@
 
 
 
-
+/* Is it better w-100 or my_width_100_img???????????? */
 /* Conviene raggruppare le img per classi 
 che dipendono dalla width???????? SI*/
