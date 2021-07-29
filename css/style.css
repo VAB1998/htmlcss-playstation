@@ -1,4 +1,12 @@
-/* ------Customed Settings and Styles------ */
+/* ------Customized Settings and Styles------ */
+.my_card{
+    border: none;
+}
+
+.my_border_radius{
+    border-radius: 1rem;
+}
+
 .my_game_wrapper{
     border: 3px solid transparent;
 }
@@ -12,11 +20,6 @@
 .my_width_70_img{
     width: 70%;
 }
-
-.my_width_100_img{
-    width: 100%;
-}
-/* Sostituire my_width_100_img con w-100!!!!!!!!!!???????? */
 
 /* Button Styles */
 .my_buy_now_button{
@@ -143,13 +146,4 @@
 #my_footer{
     background-color: #00439c;
     color: white;
-}
-
-/* Is it better w-100 or my_width_100_img???????????? */
-/* Conviene raggruppare le img per classi 
-che dipendono dalla width???????? SI*/
-
-
-.my_card{
-    border: none;
 }
