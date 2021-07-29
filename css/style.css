@@ -1,4 +1,16 @@
-/* ------Buttons Style------ */
+/* ------Customed Settings and Styles------ */
+
+/* Image Width */
+.my_width_70_img{
+    width: 70%;
+}
+
+.my_width_100_img{
+    width: 100%;
+}
+
+
+/* Buttons Style */
 .my_buy_now_button{
     background-color: #a60000;
     color: white;
@@ -101,9 +113,6 @@
 
 /* ------Playstatio Plus------ */
 
-.my_ps_plus_logo{
-    width: 70%;
-}
 
 .my_ps_plus_button{
     background-color: #d9dadc;
@@ -121,9 +130,7 @@
     background-color: #bebcbb;
 }
 
-.my_ps_plus_game{
-    width: 100%;
-}
+
 
 /* ------Playstation Store------ */
 .my_ps_store_image{
@@ -131,5 +138,27 @@
 }
 
 
+
+
+/* ------My Playstation Now------ */
+.my_ps_now_button{
+    background-color: #fff;
+    color: black;
+}
+
+/* Hover Effect */
+.my_ps_now_button:hover{
+    background-color: #d9dadc;
+    color: black;
+}
+
+#my_playstation_now{
+    background-color: #161c3b;
+    color: white;
+}
+
+
+
+
 /* Conviene raggruppare le img per classi 
-che dipendono dalla width???????? */
+che dipendono dalla width???????? SI*/
