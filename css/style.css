@@ -9,9 +9,7 @@
     background-position: center;
 }
 
-.my_card{
-    border: none;
-}
+
 
 .my_border_radius{
     border-radius: 1rem;
@@ -46,7 +44,6 @@
     color: white;
     background-color: #1360d9;
 }
-
     /* Hover Effect */
 .my_info_button:hover{
     color: white;
@@ -57,7 +54,6 @@
     background-color: #464646;
     color: white;
 }
-
     /* Hover Effect */
 .my_access_button:hover{
     color: white;
