@@ -10,13 +10,13 @@
 }
 
 
-
 .my_border_radius{
     border-radius: 1rem;
 }
 
 .my_game_wrapper{
     border: 3px solid transparent;
+    transition: .3s linear .1s;
 }
 
     /* Hover Effect */
@@ -78,7 +78,8 @@
 
 /* ------Products------ */
 #my_products_carousel_indicators .col{
-    border-bottom: 2px solid transparent; 
+    border-bottom: 2px solid transparent;
+    transition: .3s linear .1s;
 }
 
     /* Hover Effect */
@@ -102,7 +103,7 @@
 }
 
 
-/* ------Playstatio Plus------ */
+/* ------Playstation Plus------ */
 .my_ps_plus_button{
     background-color: #d9dadc;
     color: #0064ff;
